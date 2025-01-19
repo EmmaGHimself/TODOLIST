@@ -36,6 +36,9 @@ This repository contains the backend code for a simple Todo List API built with 
 4. **Access the API documentation:**
    Open your web browser and navigate to `http://localhost:8080/docs`.
 
+5. **Access the Production API documentation:**
+   Open your web browser and navigate to `https://todolist-app-wotma.ondigitalocean.app/docs`.
+
 ## Usage
 
 You can use a REST client like Postman or curl to interact with the API.
